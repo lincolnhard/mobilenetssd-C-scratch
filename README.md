@@ -1,2 +1,2 @@
 # mobilenetssd-C-scratch
-zero CNN framework
+Detect person only, AP: 69.98, no popular CNN framework
